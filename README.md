@@ -7,7 +7,6 @@ Empower financial security with our Fraud Detection System. This project utilize
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dependencies](#dependencies)
-3. [Installation](#installation)
 5. [Project Structure](#project-structure)
 6. [Data](#data)
 7. [Preprocessing](#preprocessing)
